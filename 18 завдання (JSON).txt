@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "shampoo",
+      "age": "18+",
+      "classification": "pharmacy",
+      "hair type": "curly"
+    },
+    {
+      "name": "shower gel",
+      "age": "18+",
+      "classification": "natural"
+    },
+    {
+      "name": "perfumed water",
+      "age": "18+",
+      "classification": "luxury"
+    },
+    {
+      "name": "face cream",
+      "age": "3+",
+      "classification": "pharmacy"
+    }
+  ]
+}
